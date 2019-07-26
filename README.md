@@ -1,7 +1,11 @@
 # SampleDeepLinking
 The very basics of deep links in Android apps.
 
-Open html file from html folder in the browser on mobile device. Click on the link. This sample app will open. 
+## Instructions
+- Install the app
+- Open html file from html folder in the browser on mobile device 
+- Click on the link
+- The app will open 
 
 ## Requirements
 * Android Studio 3.6 Canary 5
